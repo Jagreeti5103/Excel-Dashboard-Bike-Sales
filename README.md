@@ -16,7 +16,7 @@ Tools Used:
 - Conditional Formatting
 
 Dataset Source:
-This dataset was taked from a public link shared on a youtube tutorial video for educational purpose.
+This dataset was taken from a public link shared on a youtube tutorial video for educational purpose.
 
 Built by:
 Jagreeti Chakraborty – Data enthusiast and Excel explorer ✨
